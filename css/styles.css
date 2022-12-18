@@ -1,0 +1,88 @@
+#title{
+    background-color: #ff4c68;
+}
+
+#header h1{
+    font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+    font-size:3.5rem;
+    line-height: 1.5;
+    color: white;
+    margin-bottom: 35px;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.btn{
+    border-radius: 7px;
+}
+
+.btn-left{
+    margin-right: 12px;
+}
+
+.navbar-brand{
+    font-family: 'ubuntu', sans-serif;
+    font-size: 50px;
+
+}
+
+.navbar{
+    margin-bottom: 80px;
+}
+
+.nav-item{
+padding: 0px  15px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+
+.head-img img{
+    width: 60%;
+   transform: rotate(25deg);
+    right: 12px;
+    bottom: 51px;
+}
+
+
+
+/* features */
+#features{
+    margin-top: 6rem;
+    text-align: center;
+    
+}
+
+/* heat,bulleye aur circle wale icons */
+#features svg{
+margin-bottom: 2.25rem;
+}
+
+
+#features h3{
+font-family:  'Montserrat', sans-serif;
+font-size: 1.5rem;
+font-weight:900;
+}
+#features p{
+    font-family:  'Montserrat', sans-serif;
+    font-weight:400;
+    
+}
+
+.features-inside{
+    margin:50px auto;
+    
+}
+
+
+/* hovering check circle,heart */
+.bi:hover {
+    /* color:#ff4c68; */
+    fill:#ff4c68;
+}
